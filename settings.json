@@ -1,0 +1,23 @@
+{
+    "background_image": "background.jpg",
+	"tile_size": 250,
+	"tile_gap": 80,
+    "tiles": [
+		{
+			"image": "steamlink.png",
+			"command": "steamlink"
+		},
+		{
+			"image": "retropi.png",
+			"command": "emulationstation"
+		},
+		{
+			"image": "shutdown.png",
+			"command": "shutdown"
+		},
+		{
+			"image": "exit.png",
+			"command": "echo test"
+		}
+    ]
+}
